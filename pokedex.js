@@ -1,10 +1,8 @@
 /**
  * Peyton Bischof
  * 5/8/2021
- * Section AM - Fadel Shtiui
  *
- * This is the pokedex.js file for my Pokedex and Pokemon Battle game, it simulates
- * the game itself and fills the page with data from a Pokedex API.
+ * Simulates the game itself and fills the page with data from a Pokedex API.
  */
 
 "use strict";
